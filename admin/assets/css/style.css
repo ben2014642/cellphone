@@ -1,0 +1,36 @@
+.icon_del {
+    margin-left: 6px;
+}
+
+.myIcon {
+    cursor: pointer;
+}
+
+.fl-right {
+    float: right;
+}
+
+.form-group label {
+    color: #000;
+}
+
+.myForm {
+    display: block;
+    width: 100%;
+}
+
+.wrap-list {
+    display: flex;
+}
+
+.list-2 {
+    margin-left: 40px;
+}
+
+.step-2 {
+    display: none;
+}
+
+#save-step {
+    display: none;
+}
